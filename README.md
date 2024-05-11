@@ -10,7 +10,7 @@ Mas, no final, eu executei uma Consulta simples: consulta = 'Temperatura?' e ret
 Não entendi o que aconteceu. Talvês os professores possam ajudar.
 
 O objetivo deste projeto era ajudar as pessoas em caso de alerta de inundação. Em solidariedade ao drama do Rio Grande do Sul.
-Através do gps do celular, identificaria o loca em emitiria uma alerta em caso de iminente inundação. Haveria interface com google maps, mosntrando a localização
+Através do gps do celular, identificaria o local em emitiria uma alerta em caso de iminente inundação. Haveria interface com google maps, mosntrando a localização
 
 Fica para o futuro!
   
